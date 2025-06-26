@@ -1,7 +1,7 @@
-package com.example.studentbackend.controller;
+package com.example.student_backend.controller;
 
-import com.example.studentbackend.model.Student;
-import com.example.studentbackend.service.StudentService;
+import com.example.student_backend.model.Student;
+import com.example.student_backend.service.StudentService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

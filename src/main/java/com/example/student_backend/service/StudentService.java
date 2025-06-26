@@ -1,7 +1,7 @@
-package com.example.studentbackend.service;
+package com.example.student_backend.service;
 
-import com.example.studentbackend.model.Student;
-import com.example.studentbackend.repository.StudentRepository;
+import com.example.student_backend.model.Student;
+import com.example.student_backend.repository.StudentRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
